@@ -1,0 +1,1399 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51074">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101359"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51214">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108772"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51716">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100191"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50480">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101372"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50536">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100974"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/58">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Tokyo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/543598">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/102204"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51382">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100994"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50381">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100290"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51087">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105856"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51093">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100329"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50457">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105021"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50842">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100297"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51622">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101078"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51077">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100376"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/515983">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100734"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/521645">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100316"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50550">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100327"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/704">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Hemocytometer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51308">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101552"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/139">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_South_Carolina"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51381">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101140"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/677">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Salinometer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50961">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100739"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50870">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100789"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/62">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Hawaii"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50474">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100368"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/516476">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100756"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51033">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101289"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50691">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100105"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51527">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101345"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51357">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101405"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51343">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108323"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50580">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101488"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51416">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101404"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/552887">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/McGill_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/42">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/State_University_of_New_Jersey"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/127">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Kagoshima_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50976">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101034"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50655">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104943"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/637">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Rake"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50621">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104511"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51423">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104770"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/521583">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101570"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50718">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108450"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50475">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100768"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51397">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108420"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/707">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Spectrophotometer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/275">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Swedish_Maritime_Administration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50664">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/107901"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/712">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Mass_Flow_Controller"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51697">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108979"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51480">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51610">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101409"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/151">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Rice_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51107">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101161"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/30">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Ohio_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51320">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100180"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51084">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101969"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/82">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Southern_Mississippi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/527510">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100903"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50434">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100183"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51257">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105194"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/541806">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Stockholm_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51388">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100209"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51594">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100035"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/40">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Marine_Sciences_Research_Center"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51258">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101379"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51395">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100136"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/546314">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100044"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/250">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Providence_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/59">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Naval_Research_Laboratory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50598">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101481"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51686">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105077"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/95">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Otago"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51390">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100914"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51331">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100221"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/667">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Spectrometer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/537128">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105603"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51140">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108894"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/41">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/MIT_Lincoln_Laboratory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50509">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101546"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/338">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_St._Andrews"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/527120">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105738"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/516499">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100882"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/540">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Lobster_Trap"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50612">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104089"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/472491">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105694"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50393">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104968"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51052">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101356"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50622">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/107673"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/485">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Hygrometer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51683">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/103535"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/175">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Millersville_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/31">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/BAE_SYSTEMS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50584">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100189"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50783">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101204"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/167">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Northwestern_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51056">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101925"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51102">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100229"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51237">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100349"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51129">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100278"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/66">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Brookhaven_National_Laboratory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50551">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101562"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51391">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101390"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51101">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/107600"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50530">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/107883"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50863">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108568"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50698">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100212"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/133">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Stanford_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50686">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108573"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50600">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101540"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50857">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100068"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51260">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100782"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/32">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Dalhousie_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/528561">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108893"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51146">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101720"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51476">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101244"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/474281">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108190"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/505822">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Guelph"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50721">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/102502"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51284">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101709"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/546456">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105677"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/46">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Union_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50567">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108612"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/711">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Aquarium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51157">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50958">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108594"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/489468">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108453"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51660">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100364"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50800">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100046"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50471">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101363"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50472">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100729"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50615">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101921"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50462">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100026"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51347">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100814"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50731">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101388"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50745">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104281"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/288">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Greifswald"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/521159">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101174"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/725">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Thermistor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/72">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Brown_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/34">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Maine"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51658">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100359"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/255">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Smith_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51685">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100153"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50916">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100321"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/535496">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Dickinson_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51034">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100204"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51533">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108774"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51688">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101686"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50426">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100042"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51246">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101434"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/522947">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105176"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51659">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100263"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/81">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Chicago"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/473025">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100190"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50466">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100196"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50975">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100024"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51265">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100650"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/216">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Western_Ontario"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/516017">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108766"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51316">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100888"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/542498">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Bottle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/527496">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100758"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51298">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100235"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51375">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105213"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/347">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Southampton"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/93">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Washington_State_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50604">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101433"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50776">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100351"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50559">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100294"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50855">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/107884"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/536454">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/71">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Harvard_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/168">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Wisconsin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/482">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Barometer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/413">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Niskin_bottle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/523723">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/St._Joseph's_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51461">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/107644"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51698">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108392"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50791">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108599"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50968">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101923"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51292">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100980"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51242">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100038"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50843">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100226"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51351">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101490"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51124">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101125"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51276">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100626"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/162">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Nova_Southeastern_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/540424">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/McMaster_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51281">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105157"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51695">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101418"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50390">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/102499"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/67">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Universite_de_Perpignan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/472886">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100239"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/88">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Wells_National_Estuarine_Research_Reserve"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51245">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101435"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50411">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100025"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50473">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101358"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51302">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101136"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/69">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/State_University_of_New_York"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/536476">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Whitman_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50747">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108595"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50645">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101469"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51432">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100050"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/106">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Plymouth"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50985">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101396"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/537072">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Idaho_State_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/544586">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100971"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/553204">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101612"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51387">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100028"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51109">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101475"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/703">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Light_Meter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50498">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100537"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51573">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101294"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50759">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101532"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51125">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104287"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50779">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104091"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51624">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100467"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51130">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101879"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50785">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104805"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50806">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101260"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/559">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/MultiNet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51693">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101381"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/491313">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101426"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51450">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100551"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51676">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101610"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51718">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108767"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50610">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100227"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/457">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Altimeter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/554160">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108399"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/661">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Gas_Chromatograph"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/248">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Maryland_at_Baltimore"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50421">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100187"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51301">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100466"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/197">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Universidad_de_Las_Palmas_de_Gran_Canaria"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/149">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Victoria"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51435">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108567"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50505">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101694"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/528586">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108417"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50602">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100478"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/652">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Total_Organic_Carbon_Analyzer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51266">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101057"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/552212">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100381"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/317">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Wright_State_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51273">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108853"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50566">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100273"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51158">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101492"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/116">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Kyoto_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51655">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100089"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51132">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101455"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50539">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101465"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50825">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100582"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51477">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100357"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51262">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105317"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/536436">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105204"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51318">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101489"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51232">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104561"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/516618">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100262"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50545">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100200"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/312">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Oldenburg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51203">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100501"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51104">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101311"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51384">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104518"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51668">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101378"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51598">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101428"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/523783">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100317"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50675">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100291"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50590">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/61">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Princeton_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/522979">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100732"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51139">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100865"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50788">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101397"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51394">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108555"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/713">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Airstone"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51126">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101543"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50851">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104650"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/491">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Transmissometer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/505888">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Bates_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50654">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101448"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51295">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/102360"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51735">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/107669"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/115">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Hokkaido_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51030">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100346"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51144">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104831"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/230">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Virginia_Aquarium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/18">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Dartmouth_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51525">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100377"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/323">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Joliet_Junior_College"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/463">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Sonobuoy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50750">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100306"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50679">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101693"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51612">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108251"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51424">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101708"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51092">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100101"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50893">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100169"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50662">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100328"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51412">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101965"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51389">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51736">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/107887"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/492">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Spectroradiometer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51500">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/107641"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/544585">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100926"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/544">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Condensation_Particle_Counter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51643">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108248"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51704">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100772"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50573">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100099"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50919">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108275"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51578">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104735"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51156">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101484"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50499">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101380"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/321">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Auburn_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/655">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Gyro"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51571">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104172"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51539">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108548"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51255">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105215"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51268">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100149"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50905">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105211"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/537126">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105663"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/506342">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108282"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50577">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100522"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50874">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104783"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50827">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100344"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50868">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100141"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50571">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101669"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51285">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100164"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50769">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108554"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51167">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108091"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/535563">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100830"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51701">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101300"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/726">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Pump"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51684">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108089"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51433">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104966"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51379">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100355"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/320">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Arkansas_State_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51075">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104649"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/679">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Refractometer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/484">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Fluorometer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/511706">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100649"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/535503">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Tufts_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50861">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100333"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/470">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Thermosalinograph"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50678">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101530"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/280">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Sonoma_State_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/535159">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/107662"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50733">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100999"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50463">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101288"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/520507">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100057"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51256">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101678"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51275">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100609"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/544612">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Western_Washington_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/442">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Radiometer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/727">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Optode"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50579">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/102713"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/518396">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108492"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/526859">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Griffith_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/85">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Connecticut"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50792">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101233"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51072">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104642"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51553">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104315"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50547">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100269"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/49">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Old_Dominion_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/657">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Flow_Injection_Analyzer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50469">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101360"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51426">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105083"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/340">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Western_Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50532">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/103603"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50626">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101627"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/28">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Rutgers_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50634">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104633"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50918">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101479"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50973">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100703"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50575">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101529"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/544430">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108776"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/611">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Seaglider"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/511">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/MOCNESS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/522981">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Immersion_heater"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51657">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100362"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50379">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50520">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100358"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50633">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100228"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/98">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Laval_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51421">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101572"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51587">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101511"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/520">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Camera"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/521582">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101447"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51352">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101413"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50565">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105315"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51690">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105227"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/536477">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108529"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51349">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101605"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51330">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101095"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51717">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105408"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/540419">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Victoria_University_of_Wellington"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/474679">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101676"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50429">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100352"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/405">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Acoustic_Doppler_Current_Profiler"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50838">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104952"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/546755">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105784"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/445">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Remotely_Operated_Vehicle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50468">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101364"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/455">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Advanced_Very_High_Resolution_Radiometer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/474434">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/102006"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50669">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100251"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/154">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Southampton_Oceanography_Centre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51182">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101399"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51740">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101917"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50650">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104719"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51378">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100014"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50954">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100295"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/80">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Tennessee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50741">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100167"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/518407">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100318"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51534">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108564"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/316">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Zaragoza"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51286">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105883"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50553">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100158"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/170">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Columbia_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/75">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Oregon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50420">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100350"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/270">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Colgate_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/263">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Australian_Antarctic_Division"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50815">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101277"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51342">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101618"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/550509">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Houston"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51303">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100150"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/186">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Universidad_de_Buenos_Aires"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/465">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Gillnet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/544292">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105306"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51145">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100365"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/523779">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100304"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51591">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105191"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51089">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/105717"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/523724">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51315">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100070"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51068">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101316"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50984">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101690"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51639">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108279"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51028">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104107"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/252">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Weizmann_Institute_of_Science"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50858">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101443"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50522">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100322"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51462">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101609"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51305">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101485"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/481">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Anemometer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/521182">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101044"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/544582">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108442"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51700">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100130"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/526659">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/108765"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/714">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Scale"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50589">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/104789"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51733">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/107599"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51327">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/103557"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/165">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/University_of_Montana"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50513">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101518"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/523771">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100300"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50663">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101368"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51429">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101722"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/516097">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Ohio_State_University"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51100">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100267"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50470">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100872"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/instrument/685">
+    <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Mass_Spectrometer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/50749">
+    <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/100296"/>
+  </rdf:Description>
+</rdf:RDF>
