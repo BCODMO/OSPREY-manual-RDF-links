@@ -3,6 +3,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+   
+  <rdf:Description rdf:about="http://lod.bco-dmo.org/id/affiliation/191">
+    <skos:exactMatch rdf:resource="http://doi.org/10.17616/R37P4C"/>
+  </rdf:Description>   
+   
   <rdf:Description rdf:about="http://lod.bco-dmo.org/id/person/51074">
     <skos:exactMatch rdf:resource="http://geolink.rvdata.us/id/person/101359"/>
   </rdf:Description>
