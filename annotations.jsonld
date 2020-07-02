@@ -1,0 +1,21 @@
+{
+  "@type": "odo:Annotation",
+  "schema:author": { "@id": "https://orcid.org/0000-0003-1023-6239" },
+  "schema:dateCreated": "2020-07-01T15:01:34Z"
+  "odo:asserts": [
+    {
+      "@type": "prov:Revision",
+      "prov:entity": { "@id": "http://lod.bco-dmo.org/id/dataset-parameter/8956" },
+      "odo:hasNoDataValue": ["NaN", "-99999", "nd"],
+      "rdfs:comment": "This dataset parameter uses one of 'Nan', '-99999', or 'nd' as its no data value"
+    }
+  ],
+  "odo:refutes": [
+    {
+      "@type": "prov:Revision",
+      "prov:entity": { "@id": "http://lod.bco-dmo.org/id/dataset-parameter/8956" },
+      "odo:hasNoDataValue": ["0"],
+      "rdfs:comment": "This dataset parameter does not use '0' as a no data value"
+    }
+  ]
+}
