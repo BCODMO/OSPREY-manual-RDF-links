@@ -1,4 +1,11 @@
 {
+  "@context": {
+    "odo": "http://ocean-data.org/schema/",
+    "prov": "http://www.w3.org/ns/prov#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "schema": "http://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
   "@type": "odo:Annotation",
   "schema:author": { "@id": "https://orcid.org/0000-0003-1023-6239" },
   "schema:dateCreated": "2020-07-01T15:01:34Z"
