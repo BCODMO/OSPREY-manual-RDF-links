@@ -22,7 +22,7 @@ Annotations should always have:
 <pre>
 {
   "@context": {
-    "odo": "http://ocean-data.org/",
+    "odo": "http://ocean-data.org/schema/",
     "prov": "http://www.w3.org/ns/prov#",
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "schema": "http://schema.org/",
