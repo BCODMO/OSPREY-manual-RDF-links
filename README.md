@@ -95,7 +95,7 @@ Annotations should always have:
 
 ### Refuting and Asserting in the same Annnotation
 
-```
+<pre>
 {
    "@context": {
     "odo": "http://ocean-data.org/",
@@ -125,4 +125,4 @@ Annotations should always have:
     }
   ]
 }
-```
+</pre>
