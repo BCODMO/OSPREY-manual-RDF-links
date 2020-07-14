@@ -9,13 +9,13 @@ This file is served at: http://www.bco-dmo.org/rdf/dumps/bcodmo-matched.rdf
 Annotations should always have:
 
 1. `@type: odo:Annotation`
-2. `schema:author` pointing to the ORCID of the annnotation's author
+2. `schema:author` pointing to the ORCID of the annotation's author
 3. `schema:dateCreated` for the annotation was created
 4. At least one of either `odo:asserts` or `odo:refutes`.
 5. The `@type` of all assertions and refutations should be `prov:Revision`
-6. Every `prov:Revision` requires a `prov:entity` property for identifying the single entity about which an assertio or refutation will be made.
+6. Every `prov:Revision` requires a `prov:entity` property for identifying the single entity about which an assertion or refutation will be made.
 7. Every `prov:Revision` requires at least one or more statement(s) that are being asserted or refuted by the annotation's author.
-8, Optionally, a `prov:Revision` may have an `rdfs:comment` for declaring 
+8. Optionally, a `prov:Revision` may have an `rdfs:comment` for declaring 
 
 ### Asserting a statement that does not exist
 
