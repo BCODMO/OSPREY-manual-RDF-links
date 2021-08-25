@@ -1,0 +1,34 @@
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+@prefix odo:	<http://ocean-data.org/schema/> .
+
+odo:ChiefScientistRole	odo:hasRoleWeight	"1"^^xsd:int .
+odo:Co-ChiefScientistRole	odo:hasRoleWeight	"2"^^xsd:int .
+
+odo:LeadPrincipalInvestigatorRole	odo:hasRoleWeight	"3"^^xsd:int .
+odo:PrincipalInvestigatorRole	odo:hasRoleWeight	"4"^^xsd:int .
+odo:Co-PrincipalInvestigatorRole	odo:hasRoleWeight	"5"^^xsd:int .
+
+odo:InternationalCollaboratorRole	odo:hasRoleWeight	"6"^^xsd:int .
+odo:ScientistRole	odo:hasRoleWeight	"7"^^xsd:int .
+odo:OriginatorRole	odo:hasRoleWeight	"8"^^xsd:int .
+
+odo:CaptainRole	odo:hasRoleWeight	"10"^^xsd:int .
+
+odo:ProjectCoordinatorRole	odo:hasRoleWeight	"11"^^xsd:int .
+
+odo:StudentRole	odo:hasRoleWeight	"12"^^xsd:int .
+
+odo:ContactRole	odo:hasRoleWeight	"15"^^xsd:int .
+odo:AnalystRole	odo:hasRoleWeight	"17"^^xsd:int .
+
+odo:TechnicianRole	odo:hasRoleWeight	"20"^^xsd:int .
+
+odo:DataManagerRole	odo:hasRoleWeight	"25"^^xsd:int .
+
+odo:CuratorRole	odo:hasRoleWeight	"30"^^xsd:int .
+
+odo:DataPublisherRole	odo:hasRoleWeight	"40"^^xsd:int .
+
+odo:GuestRole	odo:hasRoleWeight	"50"^^xsd:int .
+
+odo:BcoDmoDataManagerRole	odo:hasRoleWeight	"99"^^xsd:int .
