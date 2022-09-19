@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:odo="http://ocean-data.org/schema/" >
+  
+  <!-- Role Weights -->
+  
+  <rdf:Description rdf:about="http://ocean-data.org/schema/AnalystRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/BcoDmoDataManagerRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">99</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/CaptainRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/ChiefScientistRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/Co-ChiefScientistRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/Co-PrincipalInvestigatorRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/ContactRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/CuratorRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/DataManagerRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/DataPublisherRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">40</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/GuestRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">50</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/InternationalCollaboratorRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/LeadPrincipalInvestigatorRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/OriginatorRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/PrincipalInvestigatorRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/ProjectCoordinatorRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/ScientistRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/StudentRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</odo:hasRoleWeight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/TechnicianRole">
+    <odo:hasRoleWeight rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</odo:hasRoleWeight>
+  </rdf:Description>
+  
+  <!-- Identifier Schemes -->
+  
+  <rdf:Description rdf:about="http://ocean-data.org/schema/IdentifierScheme_ORCID">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ORCiD</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/IdentifierScheme_Fundref">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fundref DOI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/IdentifierScheme_KNB-UUID">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/IdentifierScheme_arXiv">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">arXiv</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/IdentifierScheme_Handle">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Handle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/IdentifierScheme_ISBN">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISBN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/IdentifierScheme_URL">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">URL</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/IdentifierScheme_NSF_Award_ID">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSF Award Number</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/IdentifierScheme_DOI">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/IdentifierScheme_NCEI_AccessionNumber">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NCEI Accession Number</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/IdentifierScheme_BCODMO_Version_2">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BCO-DMO Identifier - Version 2</rdfs:label>
+  </rdf:Description>
+  
+</rdf:RDF>
