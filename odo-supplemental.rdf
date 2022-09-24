@@ -111,25 +111,22 @@
   <!-- Matching Predicates -->
 	
   <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#closeMatch">
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skos:closeMatch</rdfs:label>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">closeMatch</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#exactMatch">
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skos:exactMatch</rdfs:label>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">exactMatch</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#narrowMatch">
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skos:narrowMatch</rdfs:label>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">narrowMatch</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#broadMatch">
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skos:broadMatch</rdfs:label>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">broadMatch</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#related">
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skos:related</rdfs:label>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">related</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://ocean-data.org/schema/matches">
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">odo:matches</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#sameAs">
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">owl:sameAs</rdfs:label>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">matches</rdfs:label>
   </rdf:Description>
   
 </rdf:RDF>
