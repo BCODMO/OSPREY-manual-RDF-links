@@ -11,7 +11,7 @@
      <rdfs:comment xml:lang="en-us">Awards that are siblings where the parent is a odo:Project.</rdfs:comment>
      <rdfs:label xml:lang="en-us">relatedAward</rdfs:label>
   </owl:ObjectProperty>
-	
+
   <!-- Role Weights -->
   
   <rdf:Description rdf:about="http://ocean-data.org/schema/AnalystRole">
@@ -106,6 +106,30 @@
   </rdf:Description>
   <rdf:Description rdf:about="http://ocean-data.org/schema/IdentifierScheme_BCODMO_Version_2">
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BCO-DMO Identifier - Version 2</rdfs:label>
+  </rdf:Description>
+	
+  <!-- Matching Predicates -->
+  <!-- labels -->
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#closeMatch">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skos:closeMatch</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#exactMatch">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skos:exactMatch</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#narrowMatch">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skos:narrowMatch</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#broadMatch">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skos:broadMatch</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#related">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skos:related</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ocean-data.org/schema/matches">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">odo:matches</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#sameAs">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">owl:sameAs</rdfs:label>
   </rdf:Description>
   
 </rdf:RDF>
