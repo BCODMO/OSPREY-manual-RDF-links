@@ -109,7 +109,7 @@
   </rdf:Description>
 	
   <!-- Matching Predicates -->
-  <!-- labels -->
+	
   <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#closeMatch">
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">skos:closeMatch</rdfs:label>
   </rdf:Description>
