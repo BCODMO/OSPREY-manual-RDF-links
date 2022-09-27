@@ -3,7 +3,22 @@
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 	xmlns:odo="http://ocean-data.org/schema/"
-	xmlns:owl="http://www.w3.org/2002/07/owl#" >
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:schema="http://schema.org/">
+	
+  <owl:ObjectProperty rdf:about="http://ocean-data.org/schema/awardPublicationResearch">
+     <rdfs:domain rdf:resource="http://ocean-data.org/schema/Award"/>
+     <rdfs:range rdf:resource="http://schema.org/CreativeWork"/>
+     <rdfs:comment xml:lang="en-us">Publications reported to the funder.</rdfs:comment>
+     <rdfs:label xml:lang="en-us">awardPublicationResearch</rdfs:label>
+  </owl:ObjectProperty>
+	
+  <owl:ObjectProperty rdf:about="http://ocean-data.org/schema/awardOutcomesReport">
+     <rdfs:domain rdf:resource="http://ocean-data.org/schema/Award"/>
+     <rdfs:range rdf:resource="http://schema.org/CreativeWork"/>
+     <rdfs:comment xml:lang="en-us">Outcomes reported to the funder.</rdfs:comment>
+     <rdfs:label xml:lang="en-us">awardOutcomesReport</rdfs:label>
+  </owl:ObjectProperty>
 	
   <owl:ObjectProperty rdf:about="http://ocean-data.org/schema/relatedAward">
      <rdfs:domain rdf:resource="http://ocean-data.org/schema/Award"/>
