@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:schema="http://schema.org/"
+         xmlns:app="http://schema.bco-dmo.org/application#"
+         xmlns:odo="http://ocean-data.org/schema/">
+
+  <rdf:Description rdf:about="http://ocean-data.org/schema/ContactRole">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Long-term Contact</rdfs:label>
+  </rdf:Description>
+
+  <schema:SoftwareApplication rdf:nodeID="genid1">
+    <app:constructs>
+      <app:Output>
+        <app:outputType rdf:resource="http://ocean-data.org/schema/Dataset"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/PrincipalInvestigatorRole"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/Co-PrincipalInvestigatorRole"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/ScientistRole"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/StudentRole"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/ContactRole"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/TechnicianRole"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/DataManagerRole"/>
+      </app:Output>
+    </app:constructs>
+
+    <app:constructs>
+      <app:Output>
+        <app:outputType rdf:resource="http://ocean-data.org/schema/Project"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/LeadPrincipalInvestigatorRole"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/PrincipalInvestigatorRole"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/Co-PrincipalInvestigatorRole"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/ScientistRole"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/StudentRole"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/ContactRole"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/TechnicianRole"/>
+        <odo:hasRole rdf:resource="http://ocean-data.org/schema/DataManagerRole"/>
+      </app:Output>
+    </app:constructs>
+  </schema:SoftwareApplication>
+
+</rdf:RDF>
