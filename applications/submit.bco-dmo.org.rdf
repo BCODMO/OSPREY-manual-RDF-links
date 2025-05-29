@@ -1,41 +1,72 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
          xmlns:schema="http://schema.org/"
-         xmlns:app="http://schema.bco-dmo.org/application#"
-         xmlns:odo="http://ocean-data.org/schema/">
+         xmlns:ns0="http://schema.bco-dmo.org/application#"
+         xmlns:ns1="urn:bcodmo:redmine:status:"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:ns2="http://ocean-data.org/schema/">
+
+  <schema:SoftwareApplication rdf:about="urn:bcodmo:applications:submit.bco-dmo.org">
+    <ns0:constructs rdf:resource="urn:bcodmo:applications:submit.bco-dmo.org"/>
+  </schema:SoftwareApplication>
+
+  <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_ActionRequestedByDataManager">
+    <ns1:7 rdf:resource="urn:bcodmo:applications:submit.bco-dmo.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_ActionRequestedByInfo">
+    <ns1:13 rdf:resource="urn:bcodmo:applications:submit.bco-dmo.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://schema.bco-dmo.org/ubmissionStatus_ActionRequested-Review">
+    <ns1:10 rdf:resource="urn:bcodmo:applications:submit.bco-dmo.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_Completed">
+    <ns1:5 rdf:resource="urn:bcodmo:applications:submit.bco-dmo.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_Processing">
+    <ns1:2 rdf:resource="urn:bcodmo:applications:submit.bco-dmo.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_SubmissionAccepted">
+    <ns1:1 rdf:resource="urn:bcodmo:applications:submit.bco-dmo.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_UnderReview">
+    <ns1:12 rdf:resource="urn:bcodmo:applications:submit.bco-dmo.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_WillNotPublish">
+    <ns1:6 rdf:resource="urn:bcodmo:applications:submit.bco-dmo.org"/>
+  </rdf:Description>
 
   <rdf:Description rdf:about="http://ocean-data.org/schema/ContactRole">
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Long-term Contact</rdfs:label>
   </rdf:Description>
 
-  <schema:SoftwareApplication rdf:nodeID="genid1">
-    <app:constructs>
-      <app:Output>
-        <app:outputType rdf:resource="http://ocean-data.org/schema/Dataset"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/PrincipalInvestigatorRole"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/Co-PrincipalInvestigatorRole"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/ScientistRole"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/StudentRole"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/ContactRole"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/TechnicianRole"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/DataManagerRole"/>
-      </app:Output>
-    </app:constructs>
+  <ns0:Output rdf:nodeID="genid1">
+    <ns0:outputType rdf:resource="http://ocean-data.org/schema/Dataset"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/PrincipalInvestigatorRole"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/Co-PrincipalInvestigatorRole"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/ScientistRole"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/StudentRole"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/ContactRole"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/TechnicianRole"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/DataManagerRole"/>
+  </ns0:Output>
 
-    <app:constructs>
-      <app:Output>
-        <app:outputType rdf:resource="http://ocean-data.org/schema/Project"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/LeadPrincipalInvestigatorRole"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/PrincipalInvestigatorRole"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/Co-PrincipalInvestigatorRole"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/ScientistRole"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/StudentRole"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/ContactRole"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/TechnicianRole"/>
-        <odo:hasRole rdf:resource="http://ocean-data.org/schema/DataManagerRole"/>
-      </app:Output>
-    </app:constructs>
-  </schema:SoftwareApplication>
+  <ns0:Output rdf:nodeID="genid2">
+    <ns0:outputType rdf:resource="http://ocean-data.org/schema/Project"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/LeadPrincipalInvestigatorRole"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/PrincipalInvestigatorRole"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/Co-PrincipalInvestigatorRole"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/ScientistRole"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/StudentRole"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/ContactRole"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/TechnicianRole"/>
+    <ns2:hasRole rdf:resource="http://ocean-data.org/schema/DataManagerRole"/>
+  </ns0:Output>
 
 </rdf:RDF>
