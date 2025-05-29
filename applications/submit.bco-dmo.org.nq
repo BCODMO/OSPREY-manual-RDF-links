@@ -1,6 +1,16 @@
-_:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid1 <http://schema.bco-dmo.org/application#constructs> _:genid2 <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid1 <http://schema.bco-dmo.org/application#constructs> _:genid3 <urn:bcodmo:applications:submit.bco-dmo.org> .
+<urn:bcodmo:applications:submit.bco-dmo.org> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <urn:bcodmo:applications:submit.bco-dmo.org> .
+<http://schema.bco-dmo.org/SubmissionStatus_ActionRequestedByDataManager> owl:sameAs <urn:bcodmo:redmine:status:7> <urn:bcodmo:applications:submit.bco-dmo.org> .
+<http://schema.bco-dmo.org/SubmissionStatus_ActionRequestedByInfo> owl:sameAs <urn:bcodmo:redmine:status:13> <urn:bcodmo:applications:submit.bco-dmo.org> .
+<http://schema.bco-dmo.org/ubmissionStatus_ActionRequested-Review> owl:sameAs <urn:bcodmo:redmine:status:10> <urn:bcodmo:applications:submit.bco-dmo.org> .
+<http://schema.bco-dmo.org/SubmissionStatus_Completed> owl:sameAs <urn:bcodmo:redmine:status:5> <urn:bcodmo:applications:submit.bco-dmo.org> .
+<http://schema.bco-dmo.org/SubmissionStatus_Processing> owl:sameAs <urn:bcodmo:redmine:status:2> <urn:bcodmo:applications:submit.bco-dmo.org> .
+<http://schema.bco-dmo.org/SubmissionStatus_SubmissionAccepted> owl:sameAs <urn:bcodmo:redmine:status:1> <urn:bcodmo:applications:submit.bco-dmo.org> .
+<http://schema.bco-dmo.org/SubmissionStatus_UnderReview> owl:sameAs <urn:bcodmo:redmine:status:12> <urn:bcodmo:applications:submit.bco-dmo.org> .
+<http://schema.bco-dmo.org/SubmissionStatus_WillNotPublish> owl:sameAs <urn:bcodmo:redmine:status:6> <urn:bcodmo:applications:submit.bco-dmo.org> .
+
+# Outputs
+<urn:bcodmo:applications:submit.bco-dmo.org> <http://schema.bco-dmo.org/application#constructs> _:genid2 <urn:bcodmo:applications:submit.bco-dmo.org> .
+<urn:bcodmo:applications:submit.bco-dmo.org> <http://schema.bco-dmo.org/application#constructs> _:genid3 <urn:bcodmo:applications:submit.bco-dmo.org> .
 _:genid2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.bco-dmo.org/application#Output> <urn:bcodmo:applications:submit.bco-dmo.org> .
 _:genid2 <http://schema.bco-dmo.org/application#outputType> <http://ocean-data.org/schema/Dataset> <urn:bcodmo:applications:submit.bco-dmo.org> .
 _:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/PrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
