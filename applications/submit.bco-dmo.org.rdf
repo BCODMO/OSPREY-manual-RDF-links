@@ -1,55 +1,3 @@
-EasyRdf
-Documentation
-Examples
-Converter
-Support
-Downloads
-Converter
-Input Data:
-<urn:bcodmo:applications:submit.bco-dmo.org> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <urn:bcodmo:applications:submit.bco-dmo.org> .
-<http://schema.bco-dmo.org/SubmissionStatus_ActionRequestedByDataManager> <http://www.w3.org/2002/07/owl#sameAs> <urn:bcodmo:redmine:status:7> <urn:bcodmo:applications:submit.bco-dmo.org> .
-<http://schema.bco-dmo.org/SubmissionStatus_ActionRequestedByInfo> <http://www.w3.org/2002/07/owl#sameAs> <urn:bcodmo:redmine:status:13> <urn:bcodmo:applications:submit.bco-dmo.org> .
-<http://schema.bco-dmo.org/ubmissionStatus_ActionRequested-Review> <http://www.w3.org/2002/07/owl#sameAs> <urn:bcodmo:redmine:status:10> <urn:bcodmo:applications:submit.bco-dmo.org> .
-<http://schema.bco-dmo.org/SubmissionStatus_Completed> <http://www.w3.org/2002/07/owl#sameAs> <urn:bcodmo:redmine:status:5> <urn:bcodmo:applications:submit.bco-dmo.org> .
-<http://schema.bco-dmo.org/SubmissionStatus_Processing> <http://www.w3.org/2002/07/owl#sameAs> <urn:bcodmo:redmine:status:2> <urn:bcodmo:applications:submit.bco-dmo.org> .
-<http://schema.bco-dmo.org/SubmissionStatus_SubmissionAccepted> <http://www.w3.org/2002/07/owl#sameAs> <urn:bcodmo:redmine:status:1> <urn:bcodmo:applications:submit.bco-dmo.org> .
-<http://schema.bco-dmo.org/SubmissionStatus_UnderReview> <http://www.w3.org/2002/07/owl#sameAs> <urn:bcodmo:redmine:status:12> <urn:bcodmo:applications:submit.bco-dmo.org> .
-<http://schema.bco-dmo.org/SubmissionStatus_WillNotPublish> <http://www.w3.org/2002/07/owl#sameAs> <urn:bcodmo:redmine:status:6> <urn:bcodmo:applications:submit.bco-dmo.org> .
-
-# Outputs
-<urn:bcodmo:applications:submit.bco-dmo.org> <http://schema.bco-dmo.org/application#constructs> _:genid2 <urn:bcodmo:applications:submit.bco-dmo.org> .
-<urn:bcodmo:applications:submit.bco-dmo.org> <http://schema.bco-dmo.org/application#constructs> _:genid3 <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.bco-dmo.org/application#Output> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://schema.bco-dmo.org/application#outputType> <http://ocean-data.org/schema/Dataset> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/PrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/Co-PrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/ScientistRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/StudentRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/ContactRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/TechnicianRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/DataManagerRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.bco-dmo.org/application#Output> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid3 <http://schema.bco-dmo.org/application#outputType> <http://ocean-data.org/schema/Project> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid3 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/LeadPrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid3 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/PrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid3 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/Co-PrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid3 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/ScientistRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid3 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/StudentRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid3 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/ContactRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid3 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/TechnicianRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid3 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/DataManagerRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-<http://ocean-data.org/schema/ContactRole> <http://www.w3.org/2000/01/rdf-schema#label> "Long-term Contact"^^<http://www.w3.org/2001/XMLSchema#string> <urn:bcodmo:applications:submit.bco-dmo.org> .
-or URI:
-http://njh.me/
-(This URI is also used as the Base URI, when text is put in the input data box)
-Input Format:
-Guess
-Output Format:
-RDF/XML
-Raw output
- 
-Output
-Number of triples parsed: 30
 <?xml version="1.0" encoding="utf-8" ?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:schema="http://schema.org/"
@@ -120,12 +68,4 @@ Number of triples parsed: 30
     <ns1:hasRole rdf:resource="http://ocean-data.org/schema/TechnicianRole"/>
     <ns1:hasRole rdf:resource="http://ocean-data.org/schema/DataManagerRole"/>
   </ns0:Output>
-
 </rdf:RDF>
-This converter is running version 1.1.1 of EasyRdf.
-
-Written and maintained by Nicholas Humfrey.
-
-The library is licensed under the BSD 3-Clause license and documentation under CC BY 3.0.
-
-The examples are in the public domain, for more information see unlicense.org.
