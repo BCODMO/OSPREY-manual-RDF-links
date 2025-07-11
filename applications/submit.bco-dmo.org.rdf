@@ -39,7 +39,7 @@
     <owl:sameAs rdf:resource="urn:bcodmo:redmine:status:13"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="http://schema.bco-dmo.org/ubmissionStatus_ActionRequested-Review">
+  <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_ActionRequested-Review">
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Action Requested durng Review</rdfs:label>
     <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Action Requested durng Review</skos:definition>
     <owl:sameAs rdf:resource="urn:bcodmo:redmine:status:10"/>
