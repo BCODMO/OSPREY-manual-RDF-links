@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:schema="http://schema.org/"
-         xmlns:bcodmo-app="http://schema.bco-dmo.org/application#"
-         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:ns0="http://schema.bco-dmo.org/application#"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
          xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-         xmlns:odo="http://ocean-data.org/schema/">
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:ns1="http://ocean-data.org/schema/">
 
   <schema:SoftwareApplication rdf:about="urn:bcodmo:applications:submit.bco-dmo.org">
-    <bcodmo-app:constructs rdf:resource="urn:bcodmo:applications:submit.bco-dmo.org"/>
+    <ns0:constructs rdf:resource="urn:bcodmo:applications:submit.bco-dmo.org"/>
   </schema:SoftwareApplication>
 
   <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_Accepted">
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accepted</rdfs:label>
-    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The submission has been accepted for inclusion into BCO-DMO and is awaiting processing</skos:definition>
+    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The submission has been accepted for inclusion into BCO-DMO and is awaiting processing.</skos:definition>
     <owl:sameAs rdf:resource="urn:bcodmo:redmine:status:1"/>
   </rdf:Description>
 
@@ -30,35 +30,35 @@
   <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_ActionRequestedByDataManager">
     <owl:sameAs rdf:resource="urn:bcodmo:redmine:status:7"/>
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Action Requested by BCO-DMO Data Manager</rdfs:label>
-    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A BCO-DMO data manager has requested the submitter complete some activity</skos:definition>
+    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A BCO-DMO data manager has requested submitter input in order to publish this submission</skos:definition>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_ActionRequestedByInfo">
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Action Requested by info@bco-dmo.org</rdfs:label>
-    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The BCO-DMO data manager managing info@bco-dmo.org has requested the submitter complete some activity</skos:definition>
+    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The BCO-DMO data manager managing info@bco-dmo.org has requested submitter input in order to publish this submission</skos:definition>
     <owl:sameAs rdf:resource="urn:bcodmo:redmine:status:13"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_ActionRequested-Review">
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Action Requested durng Review</rdfs:label>
-    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Action Requested durng Review</skos:definition>
+    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A BCO-DMO data manager has requested submitter input in order to publish this submission</skos:definition>
     <owl:sameAs rdf:resource="urn:bcodmo:redmine:status:10"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_Completed">
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Completed</rdfs:label>
-    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The submission has been completed</skos:definition>
+    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">There are no further tasks for this submission. The metadata page has been published. Any restricted data will be made public on the specified release date.</skos:definition>
     <owl:sameAs rdf:resource="urn:bcodmo:redmine:status:5"/>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_Incomplete">
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Incomplete</rdfs:label>
-    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THe submission has been marked as incomplete</skos:definition>
+    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The submission has been marked as incomplete</skos:definition>
   </rdf:Description>
 
   <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_Processing">
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Processing</rdfs:label>
-    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A BCO-DMO Data Manager is actively processing the accepted submission</skos:definition>
+    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The submission is being prepared for publication. BCO-DMO will contact the submitter with any questions that arise, or with a request to review the draft dataset landing pages.</skos:definition>
     <owl:sameAs rdf:resource="urn:bcodmo:redmine:status:2"/>
   </rdf:Description>
 
@@ -75,35 +75,35 @@
 
   <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_WillNotPublish">
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Will Not Publish</rdfs:label>
-    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The submission will not be published at BCO-DMO</skos:definition>
+    <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The submission, in its current state, cannot be published.</skos:definition>
     <owl:sameAs rdf:resource="urn:bcodmo:redmine:status:6"/>
   </rdf:Description>
-
 
   <rdf:Description rdf:about="http://ocean-data.org/schema/ContactRole">
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Long-term Contact</rdfs:label>
   </rdf:Description>
 
-  <bcodmo-app:Output rdf:nodeID="genid1">
-    <bcodmo-app:outputType rdf:resource="http://ocean-data.org/schema/Dataset"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/PrincipalInvestigatorRole"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/Co-PrincipalInvestigatorRole"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/ScientistRole"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/StudentRole"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/ContactRole"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/TechnicianRole"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/DataManagerRole"/>
-  </bcodmo-app:Output>
+  <ns0:Output rdf:nodeID="genid1">
+    <ns0:outputType rdf:resource="http://ocean-data.org/schema/Dataset"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/PrincipalInvestigatorRole"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/Co-PrincipalInvestigatorRole"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/ScientistRole"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/StudentRole"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/ContactRole"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/TechnicianRole"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/DataManagerRole"/>
+  </ns0:Output>
 
-  <bcodmo-app:Output rdf:nodeID="genid2">
-    <bcodmo-app:outputType rdf:resource="http://ocean-data.org/schema/Project"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/LeadPrincipalInvestigatorRole"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/PrincipalInvestigatorRole"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/Co-PrincipalInvestigatorRole"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/ScientistRole"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/StudentRole"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/ContactRole"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/TechnicianRole"/>
-    <odo:hasRole rdf:resource="http://ocean-data.org/schema/DataManagerRole"/>
-  </bcodmo-app:Output>
+  <ns0:Output rdf:nodeID="genid2">
+    <ns0:outputType rdf:resource="http://ocean-data.org/schema/Project"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/LeadPrincipalInvestigatorRole"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/PrincipalInvestigatorRole"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/Co-PrincipalInvestigatorRole"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/ScientistRole"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/StudentRole"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/ContactRole"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/TechnicianRole"/>
+    <ns1:hasRole rdf:resource="http://ocean-data.org/schema/DataManagerRole"/>
+  </ns0:Output>
+
 </rdf:RDF>
