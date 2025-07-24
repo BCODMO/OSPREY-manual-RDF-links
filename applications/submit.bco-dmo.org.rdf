@@ -40,7 +40,7 @@
   </rdf:Description>
 
   <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_ActionRequested-Review">
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Action Requested durng Review</rdfs:label>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Action Requested during Review</rdfs:label>
     <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A BCO-DMO data manager has requested submitter input in order to publish this submission</skos:definition>
     <owl:sameAs rdf:resource="urn:bcodmo:redmine:status:10"/>
   </rdf:Description>
