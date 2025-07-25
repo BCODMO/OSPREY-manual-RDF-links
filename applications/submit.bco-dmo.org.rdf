@@ -11,6 +11,10 @@
     <ns0:constructs rdf:resource="urn:bcodmo:applications:submit.bco-dmo.org"/>
   </schema:SoftwareApplication>
 
+  <rdf:Description rdf:about="http://ocean-data.org/schema/ContactRole">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Long-term Contact</rdfs:label>
+  </rdf:Description>
+
   <rdf:Description rdf:about="http://schema.bco-dmo.org/SubmissionStatus_Accepted">
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accepted</rdfs:label>
     <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The submission has been accepted for inclusion into BCO-DMO and is awaiting processing.</skos:definition>
@@ -77,10 +81,6 @@
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Will Not Publish</rdfs:label>
     <skos:definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The submission, in its current state, cannot be published.</skos:definition>
     <owl:sameAs rdf:resource="urn:bcodmo:redmine:status:6"/>
-  </rdf:Description>
-
-  <rdf:Description rdf:about="http://ocean-data.org/schema/ContactRole">
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Long-term Contact</rdfs:label>
   </rdf:Description>
 
   <ns0:Output rdf:nodeID="genid1">
