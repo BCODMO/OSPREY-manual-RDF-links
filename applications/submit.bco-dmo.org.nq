@@ -1,5 +1,30 @@
 <urn:bcodmo:applications:submit.bco-dmo.org> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <urn:bcodmo:applications:submit.bco-dmo.org> .
-<urn:bcodmo:applications:submit.bco-dmo.org> <http://schema.bco-dmo.org/application#constructs> <urn:bcodmo:applications:submit.bco-dmo.org> <urn:bcodmo:applications:submit.bco-dmo.org> .
+
+# Outputs
+<urn:bcodmo:applications:submit.bco-dmo.org> <http://schema.bco-dmo.org/application#constructs> _:datasetOutput <urn:bcodmo:applications:submit.bco-dmo.org> .
+<urn:bcodmo:applications:submit.bco-dmo.org> <http://schema.bco-dmo.org/application#constructs> _:projectOutput <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:datasetOutput <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.bco-dmo.org/application#Output> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:datasetOutput <http://schema.bco-dmo.org/application#outputType> <http://ocean-data.org/schema/Dataset> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:datasetOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/PrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:datasetOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/Co-PrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:datasetOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/ScientistRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:datasetOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/StudentRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:datasetOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/ContactRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:datasetOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/TechnicianRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:datasetOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/DataManagerRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:projectOutput <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.bco-dmo.org/application#Output> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:projectOutput <http://schema.bco-dmo.org/application#outputType> <http://ocean-data.org/schema/Project> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:projectOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/LeadPrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:projectOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/PrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:projectOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/Co-PrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:projectOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/ScientistRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:projectOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/StudentRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:projectOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/ContactRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:projectOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/TechnicianRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+_:projectOutput <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/DataManagerRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
+<http://ocean-data.org/schema/ContactRole> <http://www.w3.org/2000/01/rdf-schema#label> "Long-term Contact"^^<http://www.w3.org/2001/XMLSchema#string> <urn:bcodmo:applications:submit.bco-dmo.org> .
+
+# Statuses
 <http://schema.bco-dmo.org/SubmissionStatus_Accepted> <http://www.w3.org/2000/01/rdf-schema#label> "Accepted"^^<http://www.w3.org/2001/XMLSchema#string> <urn:bcodmo:applications:submit.bco-dmo.org> .
 <http://schema.bco-dmo.org/SubmissionStatus_Accepted> <http://www.w3.org/2004/02/skos/core#definition> "The submission has been accepted for inclusion into BCO-DMO and is awaiting processing."^^<http://www.w3.org/2001/XMLSchema#string> <urn:bcodmo:applications:submit.bco-dmo.org> .
 <http://schema.bco-dmo.org/SubmissionStatus_Accepted> <http://www.w3.org/2002/07/owl#sameAs> <urn:bcodmo:redmine:status:1> <urn:bcodmo:applications:submit.bco-dmo.org> .
@@ -32,23 +57,3 @@
 <http://schema.bco-dmo.org/SubmissionStatus_WillNotPublish> <http://www.w3.org/2000/01/rdf-schema#label> "Will Not Publish"^^<http://www.w3.org/2001/XMLSchema#string> <urn:bcodmo:applications:submit.bco-dmo.org> .
 <http://schema.bco-dmo.org/SubmissionStatus_WillNotPublish> <http://www.w3.org/2004/02/skos/core#definition> "The submission, in its current state, cannot be published."^^<http://www.w3.org/2001/XMLSchema#string> <urn:bcodmo:applications:submit.bco-dmo.org> .
 <http://schema.bco-dmo.org/SubmissionStatus_WillNotPublish> <http://www.w3.org/2002/07/owl#sameAs> <urn:bcodmo:redmine:status:6> <urn:bcodmo:applications:submit.bco-dmo.org> .
-<http://ocean-data.org/schema/ContactRole> <http://www.w3.org/2000/01/rdf-schema#label> "Long-term Contact"^^<http://www.w3.org/2001/XMLSchema#string> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.bco-dmo.org/application#Output> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid1 <http://schema.bco-dmo.org/application#outputType> <http://ocean-data.org/schema/Dataset> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid1 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/PrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid1 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/Co-PrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid1 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/ScientistRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid1 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/StudentRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid1 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/ContactRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid1 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/TechnicianRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid1 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/DataManagerRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.bco-dmo.org/application#Output> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://schema.bco-dmo.org/application#outputType> <http://ocean-data.org/schema/Project> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/LeadPrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/PrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/Co-PrincipalInvestigatorRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/ScientistRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/StudentRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/ContactRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/TechnicianRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
-_:genid2 <http://ocean-data.org/schema/hasRole> <http://ocean-data.org/schema/DataManagerRole> <urn:bcodmo:applications:submit.bco-dmo.org> .
